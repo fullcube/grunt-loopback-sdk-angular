@@ -23,7 +23,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "loopback-sdk-angular": "^1.2.0"
+    "loopback-sdk-angular": "1.5.0"
   },
   "devDependencies": {
     "chai": "^1.9.1",
